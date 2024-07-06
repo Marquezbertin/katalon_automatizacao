@@ -13,7 +13,7 @@ Katalon Studio é uma poderosa plataforma de automação de testes que suporta t
 * Clone este repositório para sua máquina local:
 bash
 * Copy code
-git clone https://github.com/seu-usuario/nome-do-repositorio.git
+git clone
 * Abra o Katalon Studio e importe o projeto:
 * Vá para File > Open Project.
 * Selecione o diretório do projeto que você clonou.
